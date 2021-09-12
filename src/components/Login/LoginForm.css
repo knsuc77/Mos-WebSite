@@ -1,0 +1,73 @@
+.LOGIN {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    margin-bottom: 100px;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.MOS {
+    color: white;
+    display: flex;
+    padding-bottom: 15px;
+    font-size: 50px;
+}
+
+.id {
+    text-align: center;
+    padding: 7px 40px;
+    background-color: black;
+    color: white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    
+
+}
+
+.pw {
+    text-align: center;
+    padding: 7px 40px;
+    background-color: black;
+    color: white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.submit {
+    
+    font-size: 15px;
+    padding: 7px 40px;
+    cursor:pointer;
+    background-color: black;
+    color: white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    
+}
+
+.text {
+    color: white;
+    list-style:none;
+   padding-left:0px;
+   display: flex;
+}
+
+.text1 {
+    padding-right: 45px;
+}
+
+.text2 {
+    color: white;
+    text-decoration-line: none;
+}
+
+.text2-1:hover {
+    transform: scale(1.07);
+}
